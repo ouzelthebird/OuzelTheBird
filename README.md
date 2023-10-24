@@ -2,8 +2,7 @@
 
 ## About
 
-I work as a Business Intelligence Analyst.
-Skilled in Python, Pandas, Numpy, Matplotlib, VBA, SQL, and Power BI.
+Python Developer specializing in Backend Architecture, Data Management and Data Mining
 
 While not developing applications, I am developing music.
 
@@ -14,13 +13,10 @@ While not developing applications, I am developing music.
 ![PowerBI](https://img.shields.io/badge/-PowerBI-323D4F?style=for-the-badge&logo=powerbi&logoColor=D5D5D5)
 ![PostreSQL](https://img.shields.io/badge/-PostgreSQL-323D4F?style=for-the-badge&logo=Postgresql&logoColor=D5D5D5)
 ![Git](https://img.shields.io/badge/-Git-323D4F?style=for-the-badge&logo=Git&logoColor=D5D5D5)
-![1C:Enterprise](https://img.shields.io/badge/-1C:Enterprise-323D4F?style=for-the-badge&logo=1C&logoColor=D5D5D5)
-![VBA](https://img.shields.io/badge/-VBA-323D4F?style=for-the-badge&logo=vba&logoColor=D5D5D5)
+![FastAPI](https://img.shields.io/badge/-FastAPI-323D4F?style=for-the-badge&logo=FastAPI&logoColor=D5D5D5)
+![Grafana](https://img.shields.io/badge/-Grafana-323D4F?style=for-the-badge&logo=Grafana&logoColor=D5D5D5)
+![Aiogram](https://img.shields.io/badge/-Aiogram-323D4F?style=for-the-badge&logo=Aiogram&logoColor=D5D5D5)
 
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/ZBt04IjQsZqeHzpWJY/giphy.gif" width="100" alt="gif"/>
 </div>
-
-
-
-
